@@ -1,4 +1,26 @@
+Name : Keerthana
+
+Company : Cognifyz Where Data Meets Intelligence
+
+Ref. : CTI/A1/C121336
+
+Domain : Machine Learning
+
+Duration : 30/03/2025 and culminate on 30/4/2025
+
+Overview of the Project
+
+
+Project : Cuisine Classification 
+
+![Screenshot (15)](https://github.com/user-attachments/assets/caf49675-cb17-44d4-88ac-968ac4d39bbc)
+
+![Screenshot (17)](https://github.com/user-attachments/assets/69608e02-26d0-4295-91cc-a58182921470)
+
+![Screenshot (16)](https://github.com/user-attachments/assets/21c4c3e2-8713-4feb-8dea-25f6d82ce129)
+
 🍽️ Cuisine Classification – Project Overview
+
 
 🎯 Objective:
 
